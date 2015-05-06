@@ -51,7 +51,6 @@
 
 /* Begin PBXFileReference section */
 		1819E8201AE97087006CD373 /* Diabetes-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Diabetes-Prefix.pch"; sourceTree = "<group>"; };
-		1819E85F1AE97790006CD373 /* Constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constant.h; sourceTree = "<group>"; };
 		1819E8601AE97790006CD373 /* URLConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = URLConstant.h; sourceTree = "<group>"; };
 		1819E8621AE97790006CD373 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1819E8631AE97790006CD373 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,6 +110,7 @@
 		18EF38071AE821FE008448D8 /* DiabetesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiabetesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EF380C1AE821FE008448D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EF380D1AE821FE008448D8 /* DiabetesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiabetesTests.m; sourceTree = "<group>"; };
+		EAD07F0B1AFA2A970019861F /* Constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constant.h; sourceTree = "<group>"; };
 		EAD22DD31AFA1E0D00EFECB4 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		EAD22DD41AFA1E0D00EFECB4 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -151,7 +151,7 @@
 		1819E85E1AE97790006CD373 /* AppConstant */ = {
 			isa = PBXGroup;
 			children = (
-				1819E85F1AE97790006CD373 /* Constant.h */,
+				EAD07F0B1AFA2A970019861F /* Constant.h */,
 				1819E8601AE97790006CD373 /* URLConstant.h */,
 			);
 			path = AppConstant;

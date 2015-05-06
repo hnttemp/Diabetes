@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97F6FAE1-22BF-4B22-93D9-4255C617D2FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Diabetes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F47084D0C20D53F071B01A0DEDD976109B7B5454</key>
+		<string>https://github.com/hnttemp/Diacare.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Diabetes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F47084D0C20D53F071B01A0DEDD976109B7B5454</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hnttemp/Diacare.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F47084D0C20D53F071B01A0DEDD976109B7B5454</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F47084D0C20D53F071B01A0DEDD976109B7B5454</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Diacare</string>
+		</dict>
+	</array>
+</dict>
+</plist>
