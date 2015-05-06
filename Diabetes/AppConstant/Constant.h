@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  Constant.h
 //  Diabetes
 //
 //  Created by APPLE on 23/04/15.
 //  Copyright (c) 2015 APPLE. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#ifndef Diabetes_Constant_h
+#define Diabetes_Constant_h
 
-@interface ViewController : UIViewController
 
-
-@end
-
+#endif

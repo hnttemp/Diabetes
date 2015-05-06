@@ -1,0 +1,23 @@
+//
+//  Diabetes-Prefix.pch
+//  Diabetes
+//
+//  Created by APPLE on 23/04/15.
+//  Copyright (c) 2015 APPLE. All rights reserved.
+//
+
+#ifndef Diabetes_Diabetes_Prefix_pch
+#define Diabetes_Diabetes_Prefix_pch
+
+#import "AppDelegate.h"
+#import "AppShared.h"
+#import "Constant.h"
+#import "URLConstant.h"
+#import "ServiceManager.h"
+
+#define appDelegate  (AppDelegate*)[[UIApplication sharedApplication] delegate]
+#define appShared [AppShared sharedInstance]
+#define serviceManager [ServiceManager sharedManager]
+#define userDefualts [NSUserDefaults standardUserDefaults]
+
+#endif
