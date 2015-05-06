@@ -36,6 +36,7 @@
 		18EF37FF1AE821FE008448D8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EF37FE1AE821FE008448D8 /* Images.xcassets */; };
 		18EF38021AE821FE008448D8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18EF38001AE821FE008448D8 /* LaunchScreen.xib */; };
 		18EF380E1AE821FE008448D8 /* DiabetesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF380D1AE821FE008448D8 /* DiabetesTests.m */; };
+		EAD07F0F1AFA2BEB0019861F /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = EAD07F0E1AFA2BEB0019861F /* logo.png */; };
 		EAD22DD51AFA1E0D00EFECB4 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAD22DD41AFA1E0D00EFECB4 /* LoginViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -111,6 +112,7 @@
 		18EF380C1AE821FE008448D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EF380D1AE821FE008448D8 /* DiabetesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DiabetesTests.m; sourceTree = "<group>"; };
 		EAD07F0B1AFA2A970019861F /* Constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constant.h; sourceTree = "<group>"; };
+		EAD07F0E1AFA2BEB0019861F /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		EAD22DD31AFA1E0D00EFECB4 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		EAD22DD41AFA1E0D00EFECB4 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -301,6 +303,7 @@
 		18EF37ED1AE821FE008448D8 /* Diabetes */ = {
 			isa = PBXGroup;
 			children = (
+				EAD07F0C1AFA2BEB0019861F /* Resources */,
 				1819E85D1AE97790006CD373 /* Classes */,
 				18EF37FB1AE821FE008448D8 /* Main.storyboard */,
 				18EF37FE1AE821FE008448D8 /* Images.xcassets */,
@@ -336,6 +339,22 @@
 				18EF380C1AE821FE008448D8 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EAD07F0C1AFA2BEB0019861F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EAD07F0D1AFA2BEB0019861F /* Images */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EAD07F0D1AFA2BEB0019861F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				EAD07F0E1AFA2BEB0019861F /* logo.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -418,6 +437,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAD07F0F1AFA2BEB0019861F /* logo.png in Resources */,
 				18EF37FD1AE821FE008448D8 /* Main.storyboard in Resources */,
 				18EF38021AE821FE008448D8 /* LaunchScreen.xib in Resources */,
 				18EF37FF1AE821FE008448D8 /* Images.xcassets in Resources */,
